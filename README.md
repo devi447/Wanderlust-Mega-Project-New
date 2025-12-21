@@ -26,6 +26,18 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - AWS EKS (Kubernetes)
 - Helm (Monitoring using grafana and prometheus)
 
+Step1 ==> Create EKS Cluster
+Step2 ===> Create 1 Master machine on AWS
+Step3 ==> Install Docker, Jenkins, Trivy and SonarQube.
+Step4 ==> Install Trivy (Jenkins Worker)
+Step5 ===>  Install and configure SonarQube (Master machine)
+Step6 ==> Email Notification Setup	
+Step7 ===> Steps to implement the project:
+Step8 --->3:08 video
+Step9---> Shared Library it is in github code
+
+
+
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
 ![image](https://github.com/user-attachments/assets/20542d8b-0701-43ed-b2f8-82f8ed28d053)
